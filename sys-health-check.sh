@@ -1,7 +1,12 @@
 #!/bin/bash
 
+
+##################
+#Author: PHILIPS
+#Date: 14/07/2025
 # A simple system health check script
 # Checks CPU, Memory, Disk usage and Network connectivity
+####################
 
 # Error handling function
 error_exit(){
