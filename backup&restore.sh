@@ -1,6 +1,10 @@
 #!/bin/bash
 
+##################
+#Author: PHILIPS
+#Date: 14/07/2025
 # A simple back up script to back up files to a specified directory.
+################
 
 # Error exit function
 error_exit() {
